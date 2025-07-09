@@ -1,0 +1,14 @@
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\bin\Debug\net8.0\DSA_Probs.exe
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\bin\Debug\net8.0\DSA_Probs.deps.json
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\bin\Debug\net8.0\DSA_Probs.runtimeconfig.json
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\bin\Debug\net8.0\DSA_Probs.dll
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\bin\Debug\net8.0\DSA_Probs.pdb
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\DSA_Probs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\DSA_Probs.AssemblyInfoInputs.cache
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\DSA_Probs.AssemblyInfo.cs
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\DSA_Probs.csproj.CoreCompileInputs.cache
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\DSA_Probs.dll
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\refint\DSA_Probs.dll
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\DSA_Probs.pdb
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\DSA_Probs.genruntimeconfig.cache
+C:\Users\sharuk.k\source\repos\DSA_Probs\DSA_Probs\obj\Debug\net8.0\ref\DSA_Probs.dll
