@@ -18,7 +18,9 @@ namespace DSA_Probs.Programs
             //2.From here it is Anagram code
             //Reading First word
             Console.WriteLine("First word :");
+
             String word1 = Console.ReadLine();
+            String word9 = Console.ReadLine();
 
             //Reading Second word
             Console.WriteLine("Second word :");
